@@ -1,4 +1,0 @@
-# Ignore VSCODE files
-.vscode
-# Ignore environment files
-.env
