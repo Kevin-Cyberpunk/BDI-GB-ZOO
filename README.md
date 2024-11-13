@@ -1,10 +1,10 @@
 # BDI-GB-ZOO
 # 🚀 Proyecto: Base de Datos I
 
-**Desarrollador**: Alejandro Jaimes  
+**Desarrollador**: Kevin Ramirez
 **Directorio Fuente**: `/src /Documents/Git/GitHub/Kevin Ramirez/BDI-GB-ZOO` 📂  
 **Creado**: 23-Octubre-2024 🗓️  
-**Última Actualización**: 26-Octubre-2024 ✨  
+**Última Actualización**: 13-Noviembre-2024 ✨  
 
 ## Descripción
 Bienvenido a **Mi Proyecto Asombroso**! Este repositorio alberga algunos de mis experimentos de código más emocionantes y proyectos personales. Siente la libertad de explorar la carpeta `/src` para ver todo el contenido mágico. ⚡
