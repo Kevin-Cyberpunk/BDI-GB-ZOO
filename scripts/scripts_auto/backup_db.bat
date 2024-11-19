@@ -10,7 +10,7 @@ set "PGPASSWORD=Maldonado12478910"
 set "PGDATABASE=zoologico"
 
 :: Configura el directorio de backups
-set "BACKUP_DIR=*******\C:\Users\Kevin Ramirez\Documents\Git\GitHub\Kevin Ramirez\BDI-GB-ZOO\data\backups"
+set "BACKUP_DIR=C:\Users\Kevin Ramirez\Documents\Git\GitHub\Kevin Ramirez\BDI-GB-ZOO\data\backups"
 
 :: Obtiene la fecha en formato ddMMyyyy y la hora en formato HHmm
 for /f "tokens=2-4 delims=/ " %%a in ('echo %date%') do (
